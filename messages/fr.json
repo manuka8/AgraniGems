@@ -1,0 +1,32 @@
+{
+  "Index": {
+    "title": "AGRANIGEMS | Pierres Précieuses Premium du Sri Lanka",
+    "hero": {
+      "title": "PIERRES PRÉCIEUSES EXQUISES DU SRI LANKA",
+      "subtitle": "Découvrez l'élégance intemporelle de pierres précieuses authentiques, sourcées éthiquement au cœur de Ceylan.",
+      "cta_explore": "Explorer la Collection",
+      "cta_contact": "Contactez-nous"
+    },
+    "stats": {
+      "years": "Années d'Excellence",
+      "collections": "Collections Uniques",
+      "customers": "Clients Mondiaux",
+      "countries": "Pays d'Exportation"
+    }
+  },
+  "Navbar": {
+    "home": "Accueil",
+    "about": "À Propos",
+    "gems": "Pierres",
+    "history": "Histoire",
+    "events": "Événements",
+    "team": "Équipe",
+    "gallery": "Galerie",
+    "contact": "Contact"
+  },
+  "Common": {
+    "loading": "Chargement...",
+    "readMore": "Lire la suite",
+    "backToTop": "Retour en haut"
+  }
+}

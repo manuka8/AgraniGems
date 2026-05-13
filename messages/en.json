@@ -1,0 +1,32 @@
+{
+  "Index": {
+    "title": "AGRANIGEMS | Premium Sri Lankan Gemstones",
+    "hero": {
+      "title": "EXQUISITE SRI LANKAN GEMSTONES",
+      "subtitle": "Discover the timeless elegance of authentic, ethically sourced gemstones from the heart of Ceylon.",
+      "cta_explore": "Explore Collection",
+      "cta_contact": "Contact Us"
+    },
+    "stats": {
+      "years": "Years of Excellence",
+      "collections": "Unique Collections",
+      "customers": "Global Customers",
+      "countries": "Export Countries"
+    }
+  },
+  "Navbar": {
+    "home": "Home",
+    "about": "About",
+    "gems": "Gems",
+    "history": "History",
+    "events": "Events",
+    "team": "Team",
+    "gallery": "Gallery",
+    "contact": "Contact"
+  },
+  "Common": {
+    "loading": "Loading...",
+    "readMore": "Read More",
+    "backToTop": "Back to Top"
+  }
+}

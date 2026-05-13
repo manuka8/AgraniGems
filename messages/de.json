@@ -1,0 +1,32 @@
+{
+  "Index": {
+    "title": "AGRANIGEMS | Premium Edelsteine aus Sri Lanka",
+    "hero": {
+      "title": "ERLESENE EDELSTEINE AUS SRI LANKA",
+      "subtitle": "Entdecken Sie die zeitlose Eleganz authentischer, ethisch gewonnener Edelsteine aus dem Herzen Ceylons.",
+      "cta_explore": "Kollektion Erkunden",
+      "cta_contact": "Kontaktieren Sie Uns"
+    },
+    "stats": {
+      "years": "Jahre Exzellenz",
+      "collections": "Einzigartige Kollektionen",
+      "customers": "Globale Kunden",
+      "countries": "Exportländer"
+    }
+  },
+  "Navbar": {
+    "home": "Startseite",
+    "about": "Über Uns",
+    "gems": "Edelsteine",
+    "history": "Geschichte",
+    "events": "Veranstaltungen",
+    "team": "Team",
+    "gallery": "Galerie",
+    "contact": "Kontakt"
+  },
+  "Common": {
+    "loading": "Laden...",
+    "readMore": "Weiterlesen",
+    "backToTop": "Nach Oben"
+  }
+}
