@@ -54,6 +54,22 @@ const translations = {
     badgeLabel: "Natürlicher Ursprung",
     craftsmenLabel: "Experten-Handwerker",
     backgroundText: "GRANAT"
+  },
+  es: {
+    specialization: "Nuestra Especialidad",
+    title: "Maestros en la",
+    titleHighlight: "Artesanía del Granate",
+    description: "En AGRANI GEMS, nos especializamos en el procesamiento experto de piedras de granate premium, transformando gemas naturales en bruto en tesoros finamente elaborados.",
+    features: [
+      { title: "Procesamiento Experto", desc: "Amplia experiencia en el manejo de varios tipos de granates con precisión quirúrgica.", icon: "⚡" },
+      { title: "Corte de Precisión", desc: "Cortado magistralmente para maximizar el retorno de luz y la profundidad de color característica.", icon: "💎" },
+      { title: "Brillo de Calidad", desc: "Las técnicas de pulido cuidadosas garantizan una belleza excepcional y una calidad duradera.", icon: "✨" }
+    ],
+    button: "Explorar Colección",
+    badge: "100%",
+    badgeLabel: "Origen Natural",
+    craftsmenLabel: "Artesanos Expertos",
+    backgroundText: "GRANATE"
   }
 };
 
@@ -61,7 +77,7 @@ export default function GarnetSpecialist() {
   const [hoveredItem, setHoveredItem] = useState<number | null>(null);
   const [scrollY, setScrollY] = useState(0);
   const [mounted, setMounted] = useState(false);
-  const locale = useLocale() as 'en' | 'fr' | 'de';
+  const locale = useLocale() as 'en' | 'fr' | 'de' | 'es';
   const t = translations[locale];
 
   useEffect(() => {

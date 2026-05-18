@@ -100,5 +100,39 @@ export const timelessTreasureData = {
         image: "/images/Timeless Treasure/section4.png"
       }
     ]
+  },
+  es: {
+    title: "El Tesoro Atemporal",
+    subtitle: "Por qué las gemas de Sri Lanka son sumamente importantes",
+    sections: [
+      {
+        id: 1,
+        title: "La Isla Bendecida por la Naturaleza",
+        content: "Hace mucho tiempo, en el corazón del Océano Índico, existía una isla conocida por su impresionante belleza y tesoros ocultos: Sri Lanka. En lo profundo de sus ríos, montañas y tierras fértiles descansaban coloridas piedras preciosas formadas a lo largo de millones de años. Desde zafiros azules brillantes hasta rubíes resplandecientes y gemas ojo de gato poco comunes, la isla se hizo famosa como la \"Tierra de las Gemas\".\n\nPersonas de reinos lejanos viajaron a través de los océanos para encontrar estos valiosos tesoros. Reyes, reinas y comerciantes admiraron las gemas de Sri Lanka debido a su inigualable calidad, pureza y belleza natural. Estas piedras preciosas se convirtieron en un símbolo de lujo, historia y riqueza natural.",
+        whyItMatters: "Las gemas de Sri Lanka son importantes porque son un tesoro natural raro que hace que el país sea reconocido a nivel mundial.",
+        image: "/images/Timeless Treasure/section1.png"
+      },
+      {
+        id: 2,
+        title: "Un Legado Transmitido a través de Generaciones",
+        content: "Durante siglos, la minería de gemas se convirtió en algo más que un negocio en Sri Lanka: se convirtió en una tradición. Las familias transmitieron las habilidades de tallado de gemas de generación en generación. Pueblos como Ratnapura, conocido popularmente como la \"Ciudad de las Gemas\", se convirtieron en centros de descubrimiento de piedras preciosas y artesanía.\n\nArtesanos calificados cortaron y pulieron cuidadosamente cada piedra para revelar su brillo oculto. Su artesanía transformó piedras en bruto en joyas deslumbrantes lucidas por la realeza y coleccionistas de todo el mundo.",
+        whyItMatters: "Las gemas de Sri Lanka preservan el patrimonio cultural, la artesanía tradicional y generaciones de experiencia calificada.",
+        image: "/images/Timeless Treasure/section2.png"
+      },
+      {
+        id: 3,
+        title: "Gemas que Conectan a Sri Lanka con el Mundo",
+        content: "Las gemas de Sri Lanka han viajado mucho más allá de la isla. Los famosos zafiros azules de Sri Lanka han aparecido en colecciones de joyería real y mercados de lujo de todo el mundo. Los compradores internacionales confían en las piedras preciosas de Sri Lanka por su autenticidad y belleza.\n\nLa industria de las gemas también sustenta miles de medios de subsistencia, desde mineros y joyeros hasta exportadores y empresas turísticas. Los visitantes viajan a Sri Lanka para conocer museos de gemas, minas y mercados de piedras preciosas.",
+        whyItMatters: "Las gemas son importantes porque fortalecen la economía de Sri Lanka y construyen el reconocimiento mundial del país.",
+        image: "/images/Timeless Treasure/section3.png"
+      },
+      {
+        id: 4,
+        title: "Protegiendo un Futuro Valioso",
+        content: "Hoy en día, Sri Lanka continúa proteger su patrimonio de piedras preciosas a través de una minería responsable y prácticas éticas. El país se centra en preservar el medio ambiente al tiempo que continúa con su tradición de gemas de siglos de antigüedad.\n\nA medida que la tecnología crece y la demanda mundial aumenta, las gemas de Sri Lanka siguen siendo símbolos de confianza, belleza y orgullo nacional. Recuerdan al mundo que los mayores tesoros de la naturaleza no solo son valiosos por su riqueza, sino también por su cultura, identidad e historia.",
+        whyItMatters: "Las gemas de Sri Lanka son importantes porque representan la identidad de la nación y su prosperidad futura.",
+        image: "/images/Timeless Treasure/section4.png"
+      }
+    ]
   }
 };

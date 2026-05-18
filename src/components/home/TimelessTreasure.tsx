@@ -10,7 +10,7 @@ const AUTO_PLAY_INTERVAL = 8000; // 8 seconds per section
 const RESUME_AUTO_PLAY_DELAY = 30000; // 30 seconds after manual interaction
 
 export default function TimelessTreasure() {
-  const locale = useLocale() as 'en' | 'fr' | 'de';
+  const locale = useLocale() as 'en' | 'fr' | 'de' | 'es';
   const data = timelessTreasureData[locale] || timelessTreasureData.en;
   const [activeIndex, setActiveIndex] = useState(0);
   const [isAutoPlaying, setIsAutoPlaying] = useState(true);

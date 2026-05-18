@@ -188,6 +188,65 @@ const translations = {
     certified: {
       title: "Zertifiziert von Führenden Laboren"
     }
+  },
+  es: {
+    hero: {
+      tagline: "La Historia de AgraniGems",
+      title: "Pioneros en el Brillo de Ceilán",
+      description: "Fundada sobre los principios de confianza y excelencia, AgraniGems ha crecido desde una empresa familiar boutique hasta convertirse en un exportador global líder de piedras preciosas de Sri Lanka de primera calidad."
+    },
+    garnet: {
+      tagline: "Especialistas en Granate",
+      title: "Maestros del Procesamiento de Granates Premium",
+      description1: "AgraniGems es reconocida internacionalmente por su experiencia en el procesamiento y exportación de piedras preciosas de granate natural de alta calidad obtenidas de las tierras ricas en minerales de Sri Lanka.",
+      description2: "Nuestros hábiles artesanos combinan técnicas tradicionales de piedras preciosas con tecnología moderna de precisión para realzar el brillo, la claridad y el profundo color natural de cada piedra de granate.",
+      description3: "Desde la selección de la gema en bruto hasta el pulido final, cada etapa se maneja con una atención excepcional al detalle para garantizar una calidad de clase mundial para los mercados globales.",
+      stats: {
+        processed: "10K+",
+        processedLabel: "Granates Procesados",
+        countries: "25+",
+        countriesLabel: "Países de Exportación",
+        natural: "100%",
+        naturalLabel: "Piedras Naturales"
+      },
+      imageAlt: "Piedras Preciosas de Granate Premium",
+      badge: "Experiencia Distintiva",
+      imageTitle: "Granates Naturales de Sri Lanka"
+    },
+    legacy: {
+      title: "Llevando el Alma de la Tierra hacia Usted",
+      description1: "Sri Lanka, conocida históricamente como Serendib, ha sido la fuente de los zafiros más famosos del mundo. En AgraniGems, llevamos adelante este legado con un enfoque moderno para la exportación global.",
+      description2: "Nuestro viaje comienza en los ricos suelos de Ratnapura y Elahera, donde nuestros geólogos y expertos en minería identifican depósitos de alto potencial. Creemos que una piedra preciosa es más que un simple mineral; es una pieza de historia que se ha estado formando durante millones de años.",
+      imageAlt: "Nuestro Equipo de Expertos",
+      stats: {
+        founded: "1998",
+        foundedLabel: "Año de Fundación",
+        natural: "100%",
+        naturalLabel: "Gemas Naturales"
+      }
+    },
+    values: {
+      title: "Nuestros Valores Fundamentales",
+      authenticity: {
+        title: "Autenticidad",
+        description: "Cada gema que exportamos es 100% natural y está acompañada de certificaciones de laboratorios reconocidos internacionalmente."
+      },
+      excellence: {
+        title: "Excelencia",
+        description: "Nos adherimos a los más altos estándares de selección de gemas, asegurando que solo las piezas más excepcionales lleguen a nuestros clientes."
+      },
+      innovation: {
+        title: "Innovación",
+        description: "Combinando la experiencia tradicional de Sri Lanka con la tecnología geológica moderna para una evaluación superior de las piedras preciosas."
+      },
+      ethics: {
+        title: "Ética",
+        description: "Nuestras prácticas de minería y obtención son estrictamente éticas, apoyando a las comunidades locales y la conservación del medio ambiente."
+      }
+    },
+    certified: {
+      title: "Certificado por los Principales Laboratorios"
+    }
   }
 };
 
@@ -196,7 +255,7 @@ export default async function AboutPage({ params }: AboutPageProps) {
   setRequestLocale(locale);
 
   // Ensure locale is valid, fallback to English
-  const validLocale = locale === 'fr' || locale === 'de' ? locale : 'en';
+  const validLocale = locale === 'fr' || locale === 'de' || locale === 'es' ? locale : 'en';
   const t = translations[validLocale];
 
   const values = [

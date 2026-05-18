@@ -25,12 +25,18 @@ const translations = {
     title: "Exquisite Ceylon-Edelsteine",
     description: "Erleben Sie die Brillanz authentischer Sri Lanka-Edelsteine, ethisch beschafft und meisterhaft von unseren Handwerkern geschliffen.",
     button: "Gesamte Kollektion Ansehen"
+  },
+  es: {
+    badge: "Colección Obra Maestra",
+    title: "Exquisitas Gemas de Ceilán",
+    description: "Experimente el brillo de las auténticas piedras preciosas de Sri Lanka, de origen ético y cortadas con maestría por nuestros artesanos.",
+    button: "Ver Colección Completa"
   }
 };
 
 export default function FeaturedGems() {
   const featured = gems.slice(0, 4);
-  const locale = useLocale() as 'en' | 'fr' | 'de';
+  const locale = useLocale() as 'en' | 'fr' | 'de' | 'es';
   const t = translations[locale];
 
   return (

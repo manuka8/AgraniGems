@@ -51,6 +51,7 @@ export default function Navbar() {
     { code: 'en', name: 'English' },
     { code: 'fr', name: 'Français' },
     { code: 'de', name: 'Deutsch' },
+    { code: 'es', name: 'Español' },
   ];
 
   return (
