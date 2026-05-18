@@ -16,7 +16,7 @@ export default async function GemsPage({
       <Navbar />
       
       {/* Header */}
-      <section className="relative pt-40 pb-20 overflow-hidden">
+      <section className="relative pt-20 pb-10 overflow-hidden">
         <div className="absolute top-0 left-1/2 -translate-x-1/2 w-full h-[500px] bg-primary/20 blur-[120px] rounded-full -mt-40 opacity-50" />
         <div className="container mx-auto px-6 relative z-10 text-center">
           <span className="text-gold text-[10px] uppercase tracking-[0.4em] mb-4 inline-block">The Collection</span>

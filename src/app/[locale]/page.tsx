@@ -3,6 +3,9 @@ import Navbar from '@/components/layout/Navbar';
 import Footer from '@/components/layout/Footer';
 import Hero from '@/components/home/Hero';
 import FeaturedGems from '@/components/home/FeaturedGems';
+import TimelessTreasure from '@/components/home/TimelessTreasure';
+import ExpertGallery from '@/components/home/ExpertGallery';
+import GarnetSpecialist from '@/components/home/GarnetSpecialist';
 
 export default async function HomePage({
   params
@@ -18,6 +21,10 @@ export default async function HomePage({
       <Hero />
       
       <FeaturedGems />
+      
+      <TimelessTreasure />
+      <GarnetSpecialist />
+      <ExpertGallery />
 
       <Footer />
     </main>

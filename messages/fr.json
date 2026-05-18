@@ -18,6 +18,7 @@
     "home": "Accueil",
     "about": "À Propos",
     "gems": "Pierres",
+    "garnet": "Grenats",
     "history": "Histoire",
     "events": "Événements",
     "team": "Équipe",
@@ -28,5 +29,72 @@
     "loading": "Chargement...",
     "readMore": "Lire la suite",
     "backToTop": "Retour en haut"
+  },
+  "Garnets": {
+    "hero": {
+      "tagline": "Collection Signature Agrani",
+      "title": "Grenats Naturels du Sri Lanka",
+      "subtitle": "De nos mines privées directement aux connaisseurs mondiaux. Découvrez l'éclat flamboyant de grenats naturels de qualité supérieure, taillés avec maîtrise."
+    },
+    "intro": {
+      "title": "Qu'est-ce que le Grenat ?",
+      "description1": "Les grenats forment un groupe de minéraux silicatés qui sont prisés comme pierres précieuses depuis l'âge du bronze. Réputés pour leur éclat incroyable et leur riche profondeur de couleur, les grenats sont particulièrement célèbres pour leurs nuances rouge feu, bien qu'ils se déclinent dans un spectre de couleurs vibrant comprenant des tons orange profond, vert et violet chaud.",
+      "description2": "Contrairement à beaucoup d'autres pierres précieuses, les grenats naturels sont rarement traités thermiquement ou chimiquement, ce qui en fait l'un des choix les plus purs et authentiques. Avec une dureté de 6,5 à 7,5 sur l'échelle de Mohs, ils possèdent une durabilité exceptionnelle, convenant parfaitement aux bijoux traditionnels ainsi qu'aux créations modernes."
+    },
+    "special": {
+      "tagline": "Qualité Sans Compromis",
+      "title": "Pourquoi Choisir les Grenats Agrani ?",
+      "reason1": {
+        "title": "Approvisionnement 100% Éthique",
+        "desc": "Chaque grenat est extrait selon des normes éthiques strictes, respectant à la fois l'environnement et nos communautés minières locales."
+      },
+      "reason2": {
+        "title": "Nos Propres Mines Patrimoniales",
+        "desc": "Nous éliminons totalement les intermédiaires. En possédant et exploitant nos propres mines, nous garantissons l'origine exacte et la qualité absolue de chaque pierre."
+      },
+      "reason3": {
+        "title": "Taille de Haute Précision",
+        "desc": "Nos maîtres lapidaires façonnent des facettes sur mesure adaptées à chaque cristal brut, maximisant son feu, sa réfraction et sa profondeur optique."
+      },
+      "reason4": {
+        "title": "Certification Internationale",
+        "desc": "Chaque pierre précieuse est authentifiée et évaluée par les plus grands laboratoires mondiaux (GIA, GIC, GRS), sécurisant ainsi votre investissement."
+      }
+    },
+    "process": {
+      "tagline": "De la Mine au Chef-d'œuvre",
+      "title": "Notre Processus de Traitement des Grenats",
+      "description": "Notre intégration verticale garantit le plus haut niveau de contrôle qualité à chaque étape du voyage de la pierre, depuis les profondeurs de la terre jusqu'à l'œuvre d'art polie.",
+      "step1": {
+        "num": "01",
+        "title": "Extraction Éthique",
+        "desc": "We extract raw garnets from our private mines in Elahera and Ratnapura. Our sustainable mining techniques protect the local ecosystem and ensure safety."
+      },
+      "step2": {
+        "num": "02",
+        "title": "Évaluation Experte",
+        "desc": "Les spécimens bruts sont soigneusement évalués par nos géologues. Seules les pierres présentant une saturation, une clarté et un potentiel de cristallisation optimaux sont sélectionnées."
+      },
+      "step3": {
+        "num": "03",
+        "title": "Facettage Artisanal",
+        "desc": "Dans nos ateliers de Colombo, les maîtres tailleurs étudient chaque pierre pour déterminer la forme idéale (coussin, ovale, ronde) qui révélera son feu intérieur."
+      },
+      "step4": {
+        "num": "04",
+        "title": "Polissage Exclusif",
+        "desc": "Nous appliquons des techniques de polissage dynamiques à l'aide de poudre de diamant fine. Cela crée une surface hautement réfléchissante, donnant au grenat son éclat miroir caractéristique."
+      },
+      "step5": {
+        "num": "05",
+        "title": "Certification & Exportation",
+        "desc": "Chaque grenat fini subit des tests rigoureux, est certifié, puis emballé dans des coffrets de transport sécurisés haut de gamme pour une exportation internationale."
+      }
+    },
+    "cta": {
+      "title": "Acquérez une Pièce d'Éternité",
+      "subtitle": "Découvrez notre sélection de grenats naturels certifiés ou collaborez avec nos designers pour une création sur mesure.",
+      "button": "Demander des Informations"
+    }
   }
 }

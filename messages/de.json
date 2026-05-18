@@ -18,6 +18,7 @@
     "home": "Startseite",
     "about": "Über Uns",
     "gems": "Edelsteine",
+    "garnet": "Granate",
     "history": "Geschichte",
     "events": "Veranstaltungen",
     "team": "Team",
@@ -28,5 +29,72 @@
     "loading": "Laden...",
     "readMore": "Weiterlesen",
     "backToTop": "Nach Oben"
+  },
+  "Garnets": {
+    "hero": {
+      "tagline": "Agrani Signatur-Kollektion",
+      "title": "Natürliche srilankische Granate",
+      "subtitle": "Direkt aus unseren privaten Minen an weltweite Kenner. Entdecken Sie die feurige Brillanz ethisch gewonnener, meisterhaft gefertigter Granat-Edelsteine."
+    },
+    "intro": {
+      "title": "Was sind Granat-Edelsteine?",
+      "description1": "Granate sind eine Gruppe von Silikatmineralien, die seit der Bronzezeit als Edelsteine geschätzt werden. Bekannt für ihre unglaubliche Brillanz und reiche Farbtiefe, sind Granate vor allem für ihre feurigen Rottöne berühmt, obwohl sie in einem lebendigen Farbspektrum vorkommen, das tiefe Orangen, Grüntöne und warme Lilatöne umfasst.",
+      "description2": "Im Gegensatz zu vielen anderen Edelsteinen werden natürliche Granate selten mit Hitze oder Chemikalien behandelt, was sie zu einer der reinsten und authentischsten Edelsteinentscheidungen macht. Mit einer Mohshärte von 6,5 bis 7,5 besitzen sie eine außergewöhnliche Haltbarkeit, was sie perfekt sowohl für historisch inspirierten als auch für modernen Schmuck macht."
+    },
+    "special": {
+      "tagline": "Kompromisslose Qualität",
+      "title": "Warum Agrani-Granate wählen?",
+      "reason1": {
+        "title": "100% Ethische Gewinnung",
+        "desc": "Jeder einzelne Granat wird unter strengen ethischen Standards abgebaut, wobei sowohl die Umwelt als auch unsere lokalen Bergbaugemeinschaften respektiert werden."
+      },
+      "reason2": {
+        "title": "Eigene historische Minen",
+        "desc": "Wir eliminieren Zwischenhändler vollständig. Indem wir unsere eigenen Minen besitzen und betreiben, garantieren wir die genaue Herkunft und die kompromisslose Qualität jedes Edelsteins."
+      },
+      "reason3": {
+        "title": "Präzisionsschliff",
+        "desc": "Unsere Schleifmeister fertigen individuelle Facetten an, die auf jeden Rohkristall zugeschnitten sind und dessen Feuer, Lichtbrechung und optische Tiefe maximieren."
+      },
+      "reason4": {
+        "title": "Internationale Zertifizierung",
+        "desc": "Jeder Edelstein wird von führenden globalen Laboren (GIA, GIC, GRS) authentifiziert und bewertet, um die Sicherheit Ihrer Investition zu gewährleisten."
+      }
+    },
+    "process": {
+      "tagline": "Von der Mine zum Meisterwerk",
+      "title": "Wie wir unsere Granate verarbeiten",
+      "description": "Unsere vertikale Integration gewährleistet den höchsten Standard der Qualitätskontrolle in jeder Phase der Reise des Edelsteins – von den Tiefen der Erde bis zum polierten Kunstwerk.",
+      "step1": {
+        "num": "01",
+        "title": "Ethische Gewinnung",
+        "desc": "Wir bauen rohe Granate in unseren privaten Minen in Elahera und Ratnapura ab. Unsere nachhaltigen Abbauverfahren schützen das lokale Ökosystem und garantieren Sicherheit."
+      },
+      "step2": {
+        "num": "02",
+        "title": "Fachmännische Klassifizierung",
+        "desc": "Rohsteinproben werden von unseren Geologen sorgfältig bewertet. Nur Steine mit optimaler Sättigung, Klarheit und Kristallisationspotenzial werden ausgewählt."
+      },
+      "step3": {
+        "num": "03",
+        "title": "Kunstvolles Facettieren",
+        "desc": "In unseren Werkstätten in Colombo planen Schleifmeister jeden Stein, um die ideale Form (Kissen, Oval, Rund) zu bestimmen, die sein inneres Feuer entfacht."
+      },
+      "step4": {
+        "num": "04",
+        "title": "Spezielles Polieren",
+        "desc": "Wir wenden dynamische Poliertechniken mit feinstem Diamantpulver an. Dies erzeugt eine hochreflektierende Oberfläche und verleiht dem Granat seinen charakteristischen Spiegelglanz."
+      },
+      "step5": {
+        "num": "05",
+        "title": "Zertifizierung & Export",
+        "desc": "Jeder fertige Granat wird strengen Tests unterzogen, zertifiziert und in sicheren Premium-Transportboxen für den weltweiten Export verpackt."
+      }
+    },
+    "cta": {
+      "title": "Erwerben Sie ein Stück Ewigkeit",
+      "subtitle": "Durchstöbern Sie unseren handverlesenen Bestand an zertifizierten natürlichen Granaten oder arbeiten Sie mit unseren Designern an einer maßgeschneiderten Kreation.",
+      "button": "Granate Anfragen"
+    }
   }
 }

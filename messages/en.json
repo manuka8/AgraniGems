@@ -18,6 +18,7 @@
     "home": "Home",
     "about": "About",
     "gems": "Gems",
+    "garnet": "Garnets",
     "history": "History",
     "events": "Events",
     "team": "Team",
@@ -28,5 +29,72 @@
     "loading": "Loading...",
     "readMore": "Read More",
     "backToTop": "Back to Top"
+  },
+  "Garnets": {
+    "hero": {
+      "tagline": "Agrani Signature Collection",
+      "title": "Natural Sri Lankan Garnets",
+      "subtitle": "From our private mines directly to global connoisseurs. Discover the fiery brilliance of ethically sourced, master-crafted garnet gemstones."
+    },
+    "intro": {
+      "title": "What are Garnet Gems?",
+      "description1": "Garnets are a group of silicate minerals that have been prized as gemstones since the Bronze Age. Renowned for their incredible brilliance and rich depth of color, garnets are most famous for their fiery red hues, though they occur in a vibrant spectrum of colors including deep oranges, greens, and warm purples.",
+      "description2": "Unlike many other gemstones, natural garnets are rarely treated with heat or chemicals, making them one of the most pure and authentic gemstone choices. With a Mohs hardness of 6.5 to 7.5, they possess exceptional durability, making them perfect for both heritage jewelry and modern designs."
+    },
+    "special": {
+      "tagline": "Uncompromising Quality",
+      "title": "Why Choose Agrani Garnets?",
+      "reason1": {
+        "title": "100% Ethical Sourcing",
+        "desc": "Every single garnet is mined under strict ethical standards, respecting both the environment and our local mining communities."
+      },
+      "reason2": {
+        "title": "Own Heritage Mines",
+        "desc": "We eliminate middlemen entirely. By owning and operating our mines, we guarantee the exact origin and uncompromised quality of each gem."
+      },
+      "reason3": {
+        "title": "Surgical Precision Cut",
+        "desc": "Our master lapidarists craft custom facets tailored to each raw crystal, maximizing its fire, refraction, and optical depth."
+      },
+      "reason4": {
+        "title": "International Certification",
+        "desc": "Every gemstone is authenticated and graded by leading global laboratories (GIA, GIC, GRS), ensuring your investment is secure."
+      }
+    },
+    "process": {
+      "tagline": "Mine to Masterpiece",
+      "title": "How We Process Our Garnets",
+      "description": "Our vertical integration ensures the highest standard of quality control at every stage of the gemstone's journey, from the depths of the earth to a polished work of art.",
+      "step1": {
+        "num": "01",
+        "title": "Ethical Extraction",
+        "desc": "We extract raw garnets from our private mines in Elahera and Ratnapura. Our sustainable mining techniques protect the local ecosystem and ensure safety."
+      },
+      "step2": {
+        "num": "02",
+        "title": "Expert Grading",
+        "desc": "Raw specimens are carefully evaluated by our geologists. Only stones with optimal saturation, clarity, and crystallization potential are selected."
+      },
+      "step3": {
+        "num": "03",
+        "title": "Artisanal Faceting",
+        "desc": "In our Colombo workshops, master cutters map each stone to determine the ideal shape (cushion, oval, round) that will unlock its inner fire."
+      },
+      "step4": {
+        "num": "04",
+        "title": "Proprietary Polish",
+        "desc": "We apply dynamic polishing techniques using fine diamond powder. This creates a highly reflective surface, giving the garnet its signature mirror-like luster."
+      },
+      "step5": {
+        "num": "05",
+        "title": "Certification & Export",
+        "desc": "Each finished garnet undergoes rigorous testing, is certified, and is packed in premium secure transit cases for export worldwide."
+      }
+    },
+    "cta": {
+      "title": "Acquire a Piece of Eternity",
+      "subtitle": "Browse our handpicked inventory of certified natural garnets or collaborate with our designers for a bespoke creation.",
+      "button": "Inquire About Garnets"
+    }
   }
 }

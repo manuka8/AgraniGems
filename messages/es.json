@@ -1,0 +1,100 @@
+{
+  "Index": {
+    "title": "AGRANIGEMS | Gemas de Sri Lanka de Calidad Premium",
+    "hero": {
+      "title": "GEMAS EXQUISITAS DE SRI LANKA",
+      "subtitle": "Descubra la elegancia atemporal de gemas auténticas obtenidas éticamente del corazón de Ceilán.",
+      "cta_explore": "Explorar Colección",
+      "cta_contact": "Contactar"
+    },
+    "stats": {
+      "years": "Años de Excelencia",
+      "collections": "Colecciones Únicas",
+      "customers": "Clientes Globales",
+      "countries": "Países de Exportación"
+    }
+  },
+  "Navbar": {
+    "home": "Inicio",
+    "about": "Nosotros",
+    "gems": "Gemas",
+    "garnet": "Granates",
+    "history": "Historia",
+    "events": "Eventos",
+    "team": "Equipo",
+    "gallery": "Galería",
+    "contact": "Contacto"
+  },
+  "Common": {
+    "loading": "Cargando...",
+    "readMore": "Leer Más",
+    "backToTop": "Volver Arriba"
+  },
+  "Garnets": {
+    "hero": {
+      "tagline": "Colección Agrani Signature",
+      "title": "Granates Naturales de Sri Lanka",
+      "subtitle": "De nuestras minas privadas directamente a los conocedores globales. Descubra el brillo ardiente de granates naturales de calidad premium, tallados por expertos."
+    },
+    "intro": {
+      "title": "¿Qué son los Granates?",
+      "description1": "Los granates son un grupo de minerales de silicato que han sido valorados como piedras preciosas desde la Edad del Bronce. Reconocidos por su increíble brillo y rica profundidad de color, los granates son famosos por sus tonos rojos ardientes, aunque existen en un espectro de colores vibrante que incluye naranjas profundos, verdes y púrpuras cálidos.",
+      "description2": "A diferencia de muchas otras piedras preciosas, los granates naturales rara vez se tratan con calor o productos químicos, lo que los convierte en una de las opciones de gemas más puras y auténticas. Con una dureza de 6.5 a 7.5 en la escala de Mohs, poseen una durabilidad excepcional, lo que los hace perfectos tanto para la joyería tradicional como para diseños modernos."
+    },
+    "special": {
+      "tagline": "Calidad sin Compromiso",
+      "title": "¿Por qué Elegir los Granates Agrani?",
+      "reason1": {
+        "title": "Abastecimiento 100% Ético",
+        "desc": "Cada granate se extrae bajo estrictas normas éticas, respetando tanto el medio ambiente como a nuestras comunidades mineras locales."
+      },
+      "reason2": {
+        "title": "Minas de Legado Propias",
+        "desc": "Eliminamos por completo a los intermediarios. Al ser propietarios y operar nuestras propias minas, garantizamos el origen exacto y la calidad incondicional de cada gema."
+      },
+      "reason3": {
+        "title": "Corte de Precisión Quirúrgica",
+        "desc": "Nuestros maestros lapidarios tallan facetas a medida adaptadas a cada cristal en bruto, maximizando su fuego, refracción y profundidad óptica."
+      },
+      "reason4": {
+        "title": "Certificación Internacional",
+        "desc": "Cada piedra preciosa está certificada y clasificada por los laboratorios globales líderes (GIA, GIC, GRS), asegurando la protección de su inversión."
+      }
+    },
+    "process": {
+      "tagline": "De la Mina a la Obra Maestra",
+      "title": "Cómo Procesamos Nuestros Granates",
+      "description": "Nuestra integración vertical garantiza el estándar más alto de control de calidad en cada etapa del viaje de la piedra preciosa, desde las profundidades de la tierra hasta una obra de arte pulida.",
+      "step1": {
+        "num": "01",
+        "title": "Extracción Ética",
+        "desc": "Extraemos granates en bruto de nuestras minas privadas en Elahera y Ratnapura. Nuestras técnicas de minería sostenible protegen el ecosistema local y garantizan la seguridad."
+      },
+      "step2": {
+        "num": "02",
+        "title": "Clasificación Experta",
+        "desc": "Nuestros geólogos evalúan meticulosamente los especímenes en bruto. Solo se seleccionan piedras con una saturación, claridad y potencial de cristalización óptimos."
+      },
+      "step3": {
+        "num": "03",
+        "title": "Facetado Artesanal",
+        "desc": "En nuestros talleres de Colombo, maestros talladores analizan cada piedra para determinar la forma ideal (cojín, óvalo, redondo) que liberará su fuego interior."
+      },
+      "step4": {
+        "num": "04",
+        "title": "Pulido Patentado",
+        "desc": "Aplicamos técnicas de pulido dinámico utilizando polvo de diamante fino, creando una superficie altamente reflectante que otorga al granate su característico brillo de espejo."
+      },
+      "step5": {
+        "num": "05",
+        "title": "Certificación y Exportación",
+        "desc": "Cada granate terminado se somete a rigurosas pruebas, se certifica y se empaca en estuches de tránsito premium seguros para su exportación a todo el mundo."
+      }
+    },
+    "cta": {
+      "title": "Adquiera una Pieza de Eternidad",
+      "subtitle": "Explore nuestro inventario seleccionado de granates naturales certificados o colabore con nuestros diseñadores para crear una pieza a medida.",
+      "button": "Solicitar Información"
+    }
+  }
+}
