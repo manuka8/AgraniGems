@@ -111,7 +111,7 @@ export default function GarnetDetails() {
       </div>
 
       {/* SECTION 1: HERO */}
-      <section className="relative min-h-[90vh] flex items-center justify-center py-20 z-10">
+      <section className="relative min-h-[90vh] flex items-center justify-center py-4 z-10">
         <div className="container mx-auto px-6 grid grid-cols-1 lg:grid-cols-12 gap-16 items-center">
           {/* Left Hero Text */}
           <div className="lg:col-span-7 flex flex-col items-start text-left">
@@ -342,6 +342,66 @@ export default function GarnetDetails() {
                 <p className="text-white/50 text-sm leading-relaxed relative z-10 font-light">
                   {reason.desc}
                 </p>
+              </motion.div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* SECTION 3.5: GARNET TYPES */}
+      <section className="py-24 relative z-10 bg-[#0a0a0a]">
+        <div className="container mx-auto px-6">
+          <div className="text-center max-w-2xl mx-auto mb-20">
+            <span className="text-rose-500 text-[10px] uppercase tracking-[0.4em] mb-4 inline-block font-bold">
+              {t('types.tagline')}
+            </span>
+            <h2 className="text-4xl md:text-5xl font-serif font-bold text-white mb-6 leading-tight">
+              {t('types.title')}
+            </h2>
+            <div className="w-20 h-[1.5px] bg-rose-500 mx-auto" />
+          </div>
+
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-12">
+            {[
+              { id: 'hessonite', img: '/images/Garnet/Hessonite Garnet/gem_image1.jpg' },
+              { id: 'rhodolite', img: '/images/Garnet/Rodholight Garnet/gem_image1.jpg' },
+              { id: 'pyrope', img: '/images/Garnet/Pyrope Garnet/gem_image1.jpg' },
+              { id: 'almandine', img: '/images/Garnet/Almandine Garnet/gem_image1.jpg' }
+            ].map((type, i) => (
+              <motion.div
+                key={type.id}
+                initial={{ opacity: 0, y: 30 }}
+                whileInView={{ opacity: 1, y: 0 }}
+                viewport={{ once: true }}
+                transition={{ duration: 0.6, delay: i * 0.1 }}
+                className="group relative rounded-2xl overflow-hidden bg-white/[0.02] border border-white/5 hover:border-rose-500/30 transition-all duration-500 flex flex-col md:flex-row"
+              >
+                <div className="relative w-full md:w-2/5 h-64 md:h-auto overflow-hidden shrink-0">
+                  <Image 
+                    src={type.img} 
+                    alt={t(`types.${type.id}.title`)}
+                    fill
+                    className="object-cover group-hover:scale-110 transition-transform duration-700"
+                  />
+                  <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/20 to-transparent md:bg-gradient-to-r" />
+                </div>
+                
+                <div className="p-8 flex flex-col justify-center relative z-10">
+                  <h3 className="text-2xl font-serif font-bold text-white mb-4">
+                    {t(`types.${type.id}.title`)}
+                  </h3>
+                  <p className="text-white/60 text-sm leading-relaxed mb-6 font-light line-clamp-3">
+                    {t(`types.${type.id}.desc`)}
+                  </p>
+                  
+                  <Link 
+                    href={`/garnets/${type.id}`}
+                    className="inline-flex items-center gap-2 text-rose-400 hover:text-rose-300 uppercase tracking-widest text-xs font-bold transition-colors w-max"
+                  >
+                    Explore {t(`types.${type.id}.title`)}
+                    <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
+                  </Link>
+                </div>
               </motion.div>
             ))}
           </div>

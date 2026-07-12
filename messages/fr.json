@@ -5,7 +5,8 @@
       "title": "PIERRES PRÉCIEUSES EXQUISES DU SRI LANKA",
       "subtitle": "Découvrez l'élégance intemporelle de pierres précieuses authentiques, sourcées éthiquement au cœur de Ceylan.",
       "cta_explore": "Explorer la Collection",
-      "cta_contact": "Contactez-nous"
+      "cta_contact": "Nous Contacter",
+      "cta_garnets": "Explorer les Grenats"
     },
     "stats": {
       "years": "Années d'Excellence",
@@ -13,6 +14,11 @@
       "customers": "Clients Mondiaux",
       "countries": "Pays d'Exportation"
     }
+  },
+  "PromoPopup": {
+    "title": "Découvrez Notre Collection Exclusive de Grenats",
+    "desc": "Entrez dans un monde d'élégance intemporelle. Explorez notre nouvelle sélection de grenats premium.",
+    "button": "Explorer Maintenant"
   },
   "Navbar": {
     "home": "Accueil",
@@ -95,6 +101,114 @@
       "title": "Acquérez une Pièce d'Éternité",
       "subtitle": "Découvrez notre sélection de grenats naturels certifiés ou collaborez avec nos designers pour une création sur mesure.",
       "button": "Demander des Informations"
+    },
+    "types": {
+      "tagline": "Le Spectre du Grenat",
+      "title": "Découvrez Nos Types de Grenat",
+      "hessonite": {
+        "title": "Grenat Essonite",
+        "subtitle": "La Pierre de Cannelle Dorée",
+        "desc": "Connu sous le nom de 'Pierre de Cannelle', le Grenat Essonite affiche une couleur orange doré à brun miel captivante avec un éclat interne distinctif.",
+        "story": "Historiquement vénéré dans l'astrologie védique comme la pierre précieuse de Rahu, il est associé à la sagesse, la prospérité et la protection.",
+        "origin": "Les grenats Essonite de première qualité sont principalement extraits au Sri Lanka, notamment à Ratnapura et Elahera.",
+        "color": "Orange Doré • Brun Miel • Rouge Cannelle • Orange Ambré",
+        "hardness": "6.5 – 7.5 Mohs",
+        "clarity": "Généralement propre à l'œil nu avec des inclusions caractéristiques d''onde de chaleur'.",
+        "rarity": "L'Essonite transparente de haute qualité avec une couleur orange vif est rare et précieuse.",
+        "uses": [
+          "Bagues de Luxe",
+          "Pendentifs",
+          "Bijoux Astrologiques",
+          "Collections Vintage",
+          "Pierres de Collection"
+        ],
+        "symbolism": [
+          "Prospérité",
+          "Succès",
+          "Confiance",
+          "Protection",
+          "Sagesse"
+        ],
+        "bestFor": "Collectionneurs, amateurs d'astrologie, bijoux patrimoniaux et pièces uniques."
+      },
+      "rhodolite": {
+        "title": "Grenat Rhodolite",
+        "subtitle": "La Rose de la Famille des Grenats",
+        "desc": "La Rhodolite est un mélange naturel de Pyrope et d'Almandin. Sa remarquable couleur rouge framboise à rose violacé offre une brillance exceptionnelle.",
+        "story": "Nommée d'après le mot grec 'Rhodon', signifiant rose, la Rhodolite a été identifiée en Caroline du Nord à la fin du 19ème siècle.",
+        "origin": "Le Sri Lanka produit des grenats Rhodolite exceptionnellement purs, aux côtés de gisements en Tanzanie, au Mozambique et en Inde.",
+        "color": "Rouge Rose • Framboise • Rouge Violacé • Violet Rosé",
+        "hardness": "7 – 7.5 Mohs",
+        "clarity": "Souvent propre à l'œil nu avec une excellente transparence et brillance.",
+        "rarity": "Les Rhodolites couleur framboise avec une excellente pureté sont bien plus rares que les grenats rouges standards.",
+        "uses": [
+          "Bagues de Fiançailles",
+          "Boucles d'Oreilles",
+          "Bijoux de Créateur",
+          "Colliers Fins",
+          "Pierres d'Investissement"
+        ],
+        "symbolism": [
+          "Amour",
+          "Compassion",
+          "Créativité",
+          "Harmonie",
+          "Équilibre Émotionnel"
+        ],
+        "bestFor": "Haute joaillerie moderne, bagues de fiançailles et collections de pierres précieuses."
+      },
+      "pyrope": {
+        "title": "Grenat Pyrope",
+        "subtitle": "Le Grenat Œil de Feu",
+        "desc": "Le Grenat Pyrope est célèbre pour sa couleur cramoisie intense à rouge sang et son extraordinaire brillance. Riche en magnésium, il possède une transparence remarquable.",
+        "story": "Le nom 'Pyrope' vient du mot grec signifiant 'œil de feu'. Aux 18ème et 19ème siècles, les grenats de Bohême étaient célèbres dans toute l'Europe.",
+        "origin": "Les grenats Pyrope se trouvent au Sri Lanka, en République Tchèque, en Afrique du Sud, en Tanzanie et au Mozambique.",
+        "color": "Cramoisi Profond • Rouge Sang • Rouge Écarlate • Rouge Rubis Foncé",
+        "hardness": "7 – 7.5 Mohs",
+        "clarity": "Excellente transparence avec très peu d'inclusions naturelles.",
+        "rarity": "Le Pyrope rouge sang avec une saturation supérieure est de plus en plus rare.",
+        "uses": [
+          "Bagues Classiques",
+          "Bijoux Royaux",
+          "Bracelets de Luxe",
+          "Pièces de Collection",
+          "Bijoux pour Hommes"
+        ],
+        "symbolism": [
+          "Force",
+          "Courage",
+          "Passion",
+          "Protection",
+          "Vitalité"
+        ],
+        "bestFor": "Bijoux classiques, collections de famille et pièces d'investissement intemporelles."
+      },
+      "almandine": {
+        "title": "Grenat Almandin",
+        "subtitle": "Le Grenat Rouge Profond Intemporel",
+        "desc": "Le Grenat Almandin est le membre le plus abondant de la famille, admiré pour sa riche couleur rouge bordeaux à rouge violacé.",
+        "story": "Pendant des millénaires, les grenats Almandin ont symbolisé la protection et la force. Les anciens guerriers croyaient qu'ils les protégeaient.",
+        "origin": "Le Sri Lanka produit d'exceptionnels grenats Almandin aux côtés de gisements en Inde, au Brésil, à Madagascar et aux États-Unis.",
+        "color": "Rouge Profond • Bordeaux • Rouge Violacé • Rouge Vin",
+        "hardness": "7 – 7.5 Mohs",
+        "clarity": "Les pierres de haute qualité sont transparentes avec une excellente durabilité.",
+        "rarity": "Bien qu'il soit commun, les grands spécimens de qualité gemme propres à l'œil nu sont rares.",
+        "uses": [
+          "Bijoux de Tous les Jours",
+          "Bagues de Luxe",
+          "Bijoux de Mariage",
+          "Bracelets",
+          "Pièces de Famille"
+        ],
+        "symbolism": [
+          "Force",
+          "Dévotion",
+          "Protection",
+          "Endurance",
+          "Confiance"
+        ],
+        "bestFor": "Joaillerie quotidienne, créations d'héritage et investissements à long terme."
+      }
     }
   }
 }

@@ -165,10 +165,10 @@ export default function Hero() {
               </Link>
               
               <Link
-                href="/contact"
+                href="/garnets"
                 className="group px-8 sm:px-10 py-4 border border-amber-500/30 rounded-full font-bold uppercase tracking-widest text-white transition-all duration-300 hover:bg-amber-500/5 hover:border-amber-500 backdrop-blur-sm"
               >
-                {t('cta_contact')}
+                {t('cta_garnets')}
               </Link>
             </div>
           </motion.div>

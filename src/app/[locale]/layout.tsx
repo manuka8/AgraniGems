@@ -4,6 +4,7 @@ import { notFound } from 'next/navigation';
 import { routing } from '@/i18n/routing';
 import { Inter, Playfair_Display } from 'next/font/google';
 import '../globals.css';
+import PromoPopup from '@/components/ui/PromoPopup';
 
 const inter = Inter({ subsets: ['latin'], variable: '--font-sans' });
 const playfair = Playfair_Display({ subsets: ['latin'], variable: '--font-serif' });
@@ -33,6 +34,7 @@ export default async function LocaleLayout({
       <body className="antialiased min-h-screen">
         <NextIntlClientProvider messages={messages}>
           {children}
+          <PromoPopup />
         </NextIntlClientProvider>
       </body>
     </html>

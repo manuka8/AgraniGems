@@ -5,7 +5,8 @@
       "title": "GEMAS EXQUISITAS DE SRI LANKA",
       "subtitle": "Descubra la elegancia atemporal de gemas auténticas obtenidas éticamente del corazón de Ceilán.",
       "cta_explore": "Explorar Colección",
-      "cta_contact": "Contactar"
+      "cta_contact": "Contáctenos",
+      "cta_garnets": "Explorar Granates"
     },
     "stats": {
       "years": "Años de Excelencia",
@@ -13,6 +14,11 @@
       "customers": "Clientes Globales",
       "countries": "Países de Exportación"
     }
+  },
+  "PromoPopup": {
+    "title": "Descubra Nuestra Exclusiva Colección de Granates",
+    "desc": "Ingrese a un mundo de elegancia atemporal. Explore nuestra nueva selección de granates premium.",
+    "button": "Explorar Ahora"
   },
   "Navbar": {
     "home": "Inicio",
@@ -95,6 +101,114 @@
       "title": "Adquiera una Pieza de Eternidad",
       "subtitle": "Explore nuestro inventario seleccionado de granates naturales certificados o colabore con nuestros diseñadores para crear una pieza a medida.",
       "button": "Solicitar Información"
+    },
+    "types": {
+      "tagline": "El Espectro del Granate",
+      "title": "Descubra Nuestros Tipos de Granate",
+      "hessonite": {
+        "title": "Granate Hesonita",
+        "subtitle": "La Piedra Canela Dorada",
+        "desc": "Conocido como la 'Piedra Canela', el Granate Hesonita muestra un color cautivador naranja dorado a marrón miel con un brillo interno distintivo.",
+        "story": "Históricamente venerado en la astrología védica como la piedra preciosa de Rahu, se asocia con sabiduría, prosperidad y protección.",
+        "origin": "Los granates Hesonita de primera calidad se extraen principalmente en Sri Lanka, especialmente en Ratnapura y Elahera.",
+        "color": "Naranja Dorado • Marrón Miel • Rojo Canela • Naranja Ámbar",
+        "hardness": "6.5 – 7.5 Mohs",
+        "clarity": "Típicamente limpio a simple vista con inclusiones características de 'onda de calor'.",
+        "rarity": "La Hesonita transparente de alta calidad con color naranja vivo es rara y valiosa.",
+        "uses": [
+          "Anillos de Lujo",
+          "Colgantes",
+          "Joyería Astrológica",
+          "Colecciones Vintage",
+          "Piedras de Colección"
+        ],
+        "symbolism": [
+          "Prosperidad",
+          "Éxito",
+          "Confianza",
+          "Protección",
+          "Sabiduría"
+        ],
+        "bestFor": "Coleccionistas, entusiastas de la astrología, joyería patrimonial y piezas únicas."
+      },
+      "rhodolite": {
+        "title": "Granate Rodolita",
+        "subtitle": "La Rosa de la Familia de los Granates",
+        "desc": "La Rodolita es una mezcla natural de Piropo y Almandino. Su notable color rojo frambuesa a rosa purpúreo ofrece un brillo excepcional.",
+        "story": "Nombrada por la palabra griega 'Rhodon', que significa rosa, fue identificada por primera vez en Carolina del Norte a fines del siglo XIX.",
+        "origin": "Sri Lanka produce granates Rodolita excepcionalmente limpios, junto con depósitos en Tanzania, Mozambique e India.",
+        "color": "Rojo Rosa • Frambuesa • Rojo Violáceo • Violeta Rosáceo",
+        "hardness": "7 – 7.5 Mohs",
+        "clarity": "Por lo general, limpio a simple vista con excelente transparencia y alto brillo.",
+        "rarity": "Las Rodolitas finas de color frambuesa con excelente claridad son considerablemente más raras que los granates rojos normales.",
+        "uses": [
+          "Anillos de Compromiso",
+          "Pendientes de Lujo",
+          "Joyería de Diseño",
+          "Collares Finos",
+          "Piedras de Inversión"
+        ],
+        "symbolism": [
+          "Amor",
+          "Compasión",
+          "Creatividad",
+          "Armonía",
+          "Equilibrio Emocional"
+        ],
+        "bestFor": "Joyería moderna de lujo, anillos de compromiso y colecciones de piedras preciosas premium."
+      },
+      "pyrope": {
+        "title": "Granate Piropo",
+        "subtitle": "El Granate Ojo de Fuego",
+        "desc": "El Granate Piropo es celebrado por su intenso color carmesí a rojo sangre y su extraordinaria brillantez. Rico en magnesio, posee una transparencia notable.",
+        "story": "El nombre 'Piropo' proviene de la palabra griega que significa 'ojo de fuego'. Durante los siglos XVIII y XIX, fueron famosos en toda Europa.",
+        "origin": "Los granates Piropo se encuentran en Sri Lanka, República Checa, Sudáfrica, Tanzania y Mozambique.",
+        "color": "Carmesí Profundo • Rojo Sangre • Rojo Escarlata • Rojo Rubí Oscuro",
+        "hardness": "7 – 7.5 Mohs",
+        "clarity": "Excelente transparencia con muy pocas inclusiones naturales.",
+        "rarity": "El Piropo rojo sangre fino con saturación superior es cada vez más raro.",
+        "uses": [
+          "Anillos Clásicos",
+          "Joyería Real",
+          "Pulseras de Lujo",
+          "Piezas de Colección",
+          "Joyería Masculina"
+        ],
+        "symbolism": [
+          "Fuerza",
+          "Valor",
+          "Pasión",
+          "Protección",
+          "Vitalidad"
+        ],
+        "bestFor": "Joyería fina clásica, colecciones de reliquias y piezas de inversión atemporales."
+      },
+      "almandine": {
+        "title": "Granate Almandino",
+        "subtitle": "El Granate Rojo Profundo Atemporal",
+        "desc": "El Granate Almandino es el miembro más abundante de la familia, admirado por su rico color rojo burdeos a rojo violáceo.",
+        "story": "Durante miles de años, han simbolizado protección, fuerza y lealtad. Los antiguos guerreros creían que los protegían durante la batalla.",
+        "origin": "Sri Lanka produce Almandinos excepcionales junto con depósitos en India, Brasil, Madagascar y Estados Unidos.",
+        "color": "Rojo Profundo • Burdeos • Rojo Violáceo • Rojo Vino",
+        "hardness": "7 – 7.5 Mohs",
+        "clarity": "Las piedras de alta calidad son transparentes con excelente durabilidad.",
+        "rarity": "Aunque es común, los especímenes grandes de calidad de gema limpios a simple vista son raros.",
+        "uses": [
+          "Joyería de Uso Diario",
+          "Anillos de Lujo",
+          "Joyería de Boda",
+          "Pulseras",
+          "Piezas de Reliquia"
+        ],
+        "symbolism": [
+          "Fuerza",
+          "Devoción",
+          "Protección",
+          "Resistencia",
+          "Confianza"
+        ],
+        "bestFor": "Joyería fina para el día a día, diseños de reliquias e inversiones a largo plazo."
+      }
     }
   }
 }

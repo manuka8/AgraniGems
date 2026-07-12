@@ -4,8 +4,9 @@
     "hero": {
       "title": "ERLESENE EDELSTEINE AUS SRI LANKA",
       "subtitle": "Entdecken Sie die zeitlose Eleganz authentischer, ethisch gewonnener Edelsteine aus dem Herzen Ceylons.",
-      "cta_explore": "Kollektion Erkunden",
-      "cta_contact": "Kontaktieren Sie Uns"
+      "cta_explore": "Kollektion erkunden",
+      "cta_contact": "Kontakt aufnehmen",
+      "cta_garnets": "Granate erkunden"
     },
     "stats": {
       "years": "Jahre Exzellenz",
@@ -13,6 +14,11 @@
       "customers": "Globale Kunden",
       "countries": "Exportländer"
     }
+  },
+  "PromoPopup": {
+    "title": "Entdecken Sie unsere exklusive Granat-Kollektion",
+    "desc": "Treten Sie ein in eine Welt zeitloser Eleganz. Entdecken Sie unsere neu kuratierte Auswahl an Premium-Granaten.",
+    "button": "Jetzt entdecken"
   },
   "Navbar": {
     "home": "Startseite",
@@ -95,6 +101,114 @@
       "title": "Erwerben Sie ein Stück Ewigkeit",
       "subtitle": "Durchstöbern Sie unseren handverlesenen Bestand an zertifizierten natürlichen Granaten oder arbeiten Sie mit unseren Designern an einer maßgeschneiderten Kreation.",
       "button": "Granate Anfragen"
+    },
+    "types": {
+      "tagline": "Das Granat-Spektrum",
+      "title": "Entdecken Sie unsere Granatarten",
+      "hessonite": {
+        "title": "Hessonit-Granat",
+        "subtitle": "Der goldene Zimtstein",
+        "desc": "Bekannt als der 'Zimtstein', zeigt der Hessonit-Granat eine faszinierende goldorange bis honigbraune Farbe mit einem unverwechselbaren inneren Glühen. Im Gegensatz zu den meisten Granaten wird sein warmes Aussehen durch einzigartige Kristalleinschlüsse verursacht.",
+        "story": "In der vedischen Astrologie als Edelstein von Rahu historisch verehrt, wird der Hessonit-Granat seit langem mit Weisheit, Wohlstand und Schutz in Verbindung gebracht. Die alte srilankische und indische Elite bewunderte sein leuchtendes Bernsteinaussehen.",
+        "origin": "Premium-Hessonit-Granate werden hauptsächlich in Sri Lanka abgebaut, insbesondere in Ratnapura und Elahera.",
+        "color": "Goldorange • Honigbraun • Zimtrot • Bernsteinorange",
+        "hardness": "6.5 – 7.5 Mohs",
+        "clarity": "Typischerweise augenrein mit charakteristischen 'Hitzewellen'-Einschlüssen.",
+        "rarity": "Hochwertiger transparenter Hessonit mit lebhafter orangefarbener Farbe ist relativ selten und sehr wertvoll.",
+        "uses": [
+          "Luxusringe",
+          "Anhänger",
+          "Astrologischer Schmuck",
+          "Vintage-Kollektionen",
+          "Sammleredelsteine"
+        ],
+        "symbolism": [
+          "Wohlstand",
+          "Erfolg",
+          "Selbstvertrauen",
+          "Schutz",
+          "Weisheit"
+        ],
+        "bestFor": "Sammler, Astrologie-Enthusiasten, Erbschmuck und einzigartige Statement-Stücke."
+      },
+      "rhodolite": {
+        "title": "Rhodolith-Granat",
+        "subtitle": "Die Rose der Granatfamilie",
+        "desc": "Rhodolith-Granat ist eine natürlich vorkommende Mischung aus Pyrop- und Almandin-Granaten. Seine bemerkenswerte himbeerrote bis purpurrosa Farbe bietet außergewöhnliche Brillanz.",
+        "story": "Benannt nach dem griechischen Wort 'Rhodon', was Rose bedeutet, wurde Rhodolith im späten 19. Jahrhundert in North Carolina entdeckt. Heute wird er von Schmuckdesignern für seine lebendige Farbe gefeiert.",
+        "origin": "Sri Lanka produziert außergewöhnlich reine Rhodolith-Granate neben Vorkommen in Tansania, Mosambik, Indien und Madagaskar.",
+        "color": "Rosenrot • Himbeere • Purpurrot • Rosa-Violett",
+        "hardness": "7 – 7.5 Mohs",
+        "clarity": "Normalerweise augenrein mit ausgezeichneter Transparenz und hoher Brillanz.",
+        "rarity": "Feine himbeerfarbene Rhodolithe mit ausgezeichneter Reinheit sind deutlich seltener als normale rote Granate.",
+        "uses": [
+          "Verlobungsringe",
+          "Luxus-Ohrringe",
+          "Designerschmuck",
+          "Edle Halsketten",
+          "Anlagesteine"
+        ],
+        "symbolism": [
+          "Liebe",
+          "Mitgefühl",
+          "Kreativität",
+          "Harmonie",
+          "Emotionale Balance"
+        ],
+        "bestFor": "Moderner Luxusschmuck, Verlobungsringe, Jubiläumsgeschenke und Premium-Edelsteinsammlungen."
+      },
+      "pyrope": {
+        "title": "Pyrop-Granat",
+        "subtitle": "Der feurige Granat",
+        "desc": "Pyrop-Granat wird für seine intensive purpurrote bis blutrote Farbe und außergewöhnliche Brillanz gefeiert. Reich an Magnesium, besitzt er bemerkenswerte Transparenz.",
+        "story": "Der Name 'Pyrop' stammt vom griechischen Wort für 'feuriges Auge'. Im 18. und 19. Jahrhundert wurden Pyrop-Granate aus Böhmen in ganz Europa berühmt.",
+        "origin": "Pyrop-Granate finden sich in Sri Lanka, Tschechien, Südafrika, Tansania und Mosambik.",
+        "color": "Tiefes Purpur • Blutrot • Scharlachrot • Dunkles Rubinrot",
+        "hardness": "7 – 7.5 Mohs",
+        "clarity": "Ausgezeichnete Transparenz mit sehr wenigen natürlichen Einschlüssen.",
+        "rarity": "Feiner blutroter Pyrop mit überlegener Sättigung wird zunehmend seltener.",
+        "uses": [
+          "Klassische Ringe",
+          "Königlicher Schmuck",
+          "Luxus-Armbänder",
+          "Sammlerstücke",
+          "Herrenschmuck"
+        ],
+        "symbolism": [
+          "Stärke",
+          "Mut",
+          "Leidenschaft",
+          "Schutz",
+          "Vitalität"
+        ],
+        "bestFor": "Klassischer feiner Schmuck, Erbstückkollektionen und zeitlose Anlagestücke."
+      },
+      "almandine": {
+        "title": "Almandin-Granat",
+        "subtitle": "Der zeitlose tiefrote Granat",
+        "desc": "Almandin-Granat ist das häufigste Mitglied der Granatfamilie, bewundert für seine reiche burgunderrote bis violettrote Farbe.",
+        "story": "Seit Jahrtausenden symbolisieren Almandin-Granate Schutz, Stärke und Loyalität. Antike Krieger glaubten, dass diese Edelsteine sie im Kampf bewachten.",
+        "origin": "Sri Lanka produziert außergewöhnliche Almandin-Granate neben Vorkommen in Indien, Brasilien, Madagaskar und den USA.",
+        "color": "Tiefrot • Burgunder • Violettrot • Weinrot",
+        "hardness": "7 – 7.5 Mohs",
+        "clarity": "Hochwertige Steine sind transparent mit ausgezeichneter Haltbarkeit und minimalen Einschlüssen.",
+        "rarity": "Obwohl Almandin häufig ist, sind große, augenreine Exemplare in Edelsteinqualität selten.",
+        "uses": [
+          "Schmuck für den Alltag",
+          "Luxusringe",
+          "Hochzeitsschmuck",
+          "Armbänder",
+          "Erbstücke"
+        ],
+        "symbolism": [
+          "Stärke",
+          "Hingabe",
+          "Schutz",
+          "Ausdauer",
+          "Selbstvertrauen"
+        ],
+        "bestFor": "Feiner Alltagsschmuck, Erbstück-Designs und langfristige Edelstein-Investitionen."
+      }
     }
   }
 }

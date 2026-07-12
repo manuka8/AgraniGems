@@ -5,7 +5,8 @@
       "title": "EXQUISITE SRI LANKAN GEMSTONES",
       "subtitle": "Discover the timeless elegance of authentic, ethically sourced gemstones from the heart of Ceylon.",
       "cta_explore": "Explore Collection",
-      "cta_contact": "Contact Us"
+      "cta_contact": "Contact Us",
+      "cta_garnets": "Explore Garnets"
     },
     "stats": {
       "years": "Years of Excellence",
@@ -13,6 +14,11 @@
       "customers": "Global Customers",
       "countries": "Export Countries"
     }
+  },
+  "PromoPopup": {
+    "title": "Discover Our Exclusive Garnet Collection",
+    "desc": "Step into a world of timeless elegance. Explore our newly curated selection of premium garnets.",
+    "button": "Explore Now"
   },
   "Navbar": {
     "home": "Home",
@@ -95,6 +101,114 @@
       "title": "Acquire a Piece of Eternity",
       "subtitle": "Browse our handpicked inventory of certified natural garnets or collaborate with our designers for a bespoke creation.",
       "button": "Inquire About Garnets"
+    },
+    "types": {
+      "tagline": "The Garnet Spectrum",
+      "title": "Discover Our Garnet Types",
+      "hessonite": {
+        "title": "Hessonite Garnet",
+        "subtitle": "The Golden Cinnamon Stone",
+        "desc": "Known as the 'Cinnamon Stone', Hessonite Garnet displays a captivating golden-orange to honey-brown color with a distinctive internal glow. Unlike most garnets, its warm appearance is caused by unique crystal inclusions that create a soft, syrup-like effect.",
+        "story": "Historically revered in Vedic astrology as the gemstone of Rahu, the Hessonite Garnet has long been associated with wisdom, prosperity, and protection. Ancient Sri Lankan royalty and Indian nobility admired its glowing amber appearance, often incorporating it into ceremonial jewelry and royal ornaments.",
+        "origin": "Premium Hessonite Garnets are primarily mined in Sri Lanka, especially the gem-rich regions of Ratnapura and Elahera. Sri Lankan specimens are internationally renowned for their exceptional transparency and vibrant cinnamon-orange color.",
+        "color": "Golden Orange • Honey Brown • Cinnamon Red • Amber Orange",
+        "hardness": "6.5 – 7.5 Mohs",
+        "clarity": "Typically eye-clean with characteristic 'heat-wave' inclusions unique to natural Hessonite.",
+        "rarity": "High-quality transparent Hessonite with vivid orange color is relatively rare and highly valued.",
+        "uses": [
+          "Luxury Rings",
+          "Pendants",
+          "Astrological Jewelry",
+          "Vintage Collections",
+          "Collector Gemstones"
+        ],
+        "symbolism": [
+          "Prosperity",
+          "Success",
+          "Confidence",
+          "Protection",
+          "Wisdom"
+        ],
+        "bestFor": "Collectors, astrology enthusiasts, heritage jewelry, and unique statement pieces."
+      },
+      "rhodolite": {
+        "title": "Rhodolite Garnet",
+        "subtitle": "The Rose of the Garnet Family",
+        "desc": "Rhodolite Garnet is a naturally occurring blend of Pyrope and Almandine Garnets. Its remarkable raspberry-red to purplish-pink color offers exceptional brilliance and a softer elegance than traditional deep-red garnets.",
+        "story": "Named after the Greek word 'Rhodon', meaning rose, Rhodolite was first identified in North Carolina during the late nineteenth century. Today it is celebrated by jewelry designers for its vivid color, outstanding brilliance, and timeless sophistication.",
+        "origin": "Sri Lanka produces exceptionally clean Rhodolite Garnets alongside deposits found in Tanzania, Mozambique, India, and Madagascar.",
+        "color": "Rose Red • Raspberry • Purplish Red • Pinkish Violet",
+        "hardness": "7 – 7.5 Mohs",
+        "clarity": "Usually eye-clean with excellent transparency and high brilliance.",
+        "rarity": "Fine raspberry-colored Rhodolites with excellent clarity are considerably rarer than standard red garnets.",
+        "uses": [
+          "Engagement Rings",
+          "Luxury Earrings",
+          "Designer Jewelry",
+          "Fine Necklaces",
+          "Investment Stones"
+        ],
+        "symbolism": [
+          "Love",
+          "Compassion",
+          "Creativity",
+          "Harmony",
+          "Emotional Balance"
+        ],
+        "bestFor": "Modern luxury jewelry, engagement rings, anniversary gifts, and premium gemstone collections."
+      },
+      "pyrope": {
+        "title": "Pyrope Garnet",
+        "subtitle": "The Fire-Eyed Garnet",
+        "desc": "Pyrope Garnet is celebrated for its intense crimson to blood-red color and extraordinary brilliance. Rich in magnesium, it possesses remarkable transparency and often appears free from visible inclusions, making it one of the finest red garnets.",
+        "story": "The name 'Pyrope' comes from the Greek word meaning 'fire-eyed'. During the eighteenth and nineteenth centuries, Pyrope Garnets from Bohemia became famous throughout Europe and adorned royal crowns, military insignia, and aristocratic jewelry collections.",
+        "origin": "Pyrope Garnets are found in Sri Lanka, the Czech Republic, South Africa, Tanzania, and Mozambique.",
+        "color": "Deep Crimson • Blood Red • Scarlet Red • Dark Ruby Red",
+        "hardness": "7 – 7.5 Mohs",
+        "clarity": "Excellent transparency with very few natural inclusions.",
+        "rarity": "Fine blood-red Pyrope with superior saturation is increasingly rare and highly collectible.",
+        "uses": [
+          "Classic Rings",
+          "Royal Jewelry",
+          "Luxury Bracelets",
+          "Collector Pieces",
+          "Men's Jewelry"
+        ],
+        "symbolism": [
+          "Strength",
+          "Courage",
+          "Passion",
+          "Protection",
+          "Vitality"
+        ],
+        "bestFor": "Classic fine jewelry, heirloom collections, and timeless investment pieces."
+      },
+      "almandine": {
+        "title": "Almandine Garnet",
+        "subtitle": "The Timeless Deep Red Garnet",
+        "desc": "Almandine Garnet is the most abundant member of the garnet family, admired for its rich burgundy-red to violet-red color. Premium-quality stones exhibit remarkable clarity, durability, and exceptional brilliance suitable for everyday luxury jewelry.",
+        "story": "For thousands of years, Almandine Garnets have symbolized protection, strength, and loyalty. Ancient warriors believed these gemstones guarded them during battle, while medieval nobility treasured them as symbols of power, courage, and everlasting devotion.",
+        "origin": "Sri Lanka produces exceptional gem-quality Almandine Garnets alongside deposits found in India, Brazil, Madagascar, and the United States.",
+        "color": "Deep Red • Burgundy • Violet Red • Wine Red",
+        "hardness": "7 – 7.5 Mohs",
+        "clarity": "High-quality stones are transparent with excellent durability and minimal inclusions.",
+        "rarity": "Although Almandine is common, large, eye-clean, intensely colored gemstone-quality specimens are rare.",
+        "uses": [
+          "Daily Wear Jewelry",
+          "Luxury Rings",
+          "Wedding Jewelry",
+          "Bracelets",
+          "Heirloom Pieces"
+        ],
+        "symbolism": [
+          "Strength",
+          "Devotion",
+          "Protection",
+          "Endurance",
+          "Confidence"
+        ],
+        "bestFor": "Everyday fine jewelry, heirloom designs, wedding collections, and long-term gemstone investments."
+      }
     }
   }
 }
