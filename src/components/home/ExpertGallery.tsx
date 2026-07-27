@@ -22,91 +22,46 @@ const experts = [
   {
     id: 1,
     name: {
-      en: "Master Rohan Silva",
-      fr: "Maître Rohan Silva",
-      de: "Meister Rohan Silva",
-      es: "Maestro Rohan Silva"
+      en: "Priyantha Jayasingha",
+      fr: "Priyantha Jayasingha",
+      de: "Priyantha Jayasingha",
+      es: "Priyantha Jayasingha"
     },
     position: {
-      en: "Master Lapidary",
-      fr: "Maître Lapidaire",
-      de: "Meister-Lapidar",
-      es: "Maestro Lapidario"
+      en: "Managing Director (CEO)",
+      fr: "Directeur Général (CEO)",
+      de: "Geschäftsführer (CEO)",
+      es: "Director General (CEO)"
     },
     description: {
-      en: "A third-generation gemstone cutter, Master Silva is renowned for his precision in traditional and modern faceting techniques.",
-      fr: "Tailleur de pierres précieuses de troisième génération, Maître Silva est réputé pour sa précision dans les techniques de facettage traditionnelles et modernes.",
-      de: "Als Edelsteinschleifer der dritten Generation ist Meister Silva bekannt für seine Präzision bei traditionellen und modernen Facettiertechniken.",
-      es: "Un cortador de piedras preciosas de tercera generación, el Maestro Silva es reconocido por su precisión en técnicas de tallado tradicionales y modernas."
+      en: "Leads the company's vision, strategy, and long-term growth while ensuring excellence, integrity, and exceptional customer satisfaction across every aspect of the business.",
+      fr: "Dirige la vision, la stratégie et la croissance à long terme de l'entreprise tout en garantissant l'excellence, l'intégrité et une satisfaction client exceptionnelle.",
+      de: "Leitet die Vision, Strategie und das langfristige Wachstum des Unternehmens und gewährleistet Exzellenz, Integrität sowie höchste Kundenzufriedenheit.",
+      es: "Lidera la visión, la estrategia y el crecimiento a largo plazo de la empresa, garantizando la excelencia, la integridad y una satisfacción excepcional del cliente."
     },
     image: "/images/expert1.png"
-    
   },
   {
     id: 2,
     name: {
-      en: "Dr. Aruni Perera",
-      fr: "Dr. Aruni Perera",
-      de: "Dr. Aruni Perera",
-      es: "Dra. Aruni Perera"
+      en: "Agrani Jayasingha",
+      fr: "Agrani Jayasingha",
+      de: "Agrani Jayasingha",
+      es: "Agrani Jayasingha"
     },
     position: {
-      en: "Chief Gemologist",
-      fr: "Chef Gemmologue",
-      de: "Oberster Gemmologe",
-      es: "Gemóloga Jefa"
+      en: "Head of Marketing",
+      fr: "Chef de Marketing",
+      de: "Leiter Marketing",
+      es: "Jefa de Marketing"
     },
     description: {
-      en: "With over 20 years of experience in the field, Dr. Perera specializes in the scientific authentication and grading of rare Ceylon Sapphires.",
-      fr: "Avec plus de 20 ans d'expérience dans le domaine, le Dr Perera se spécialise dans l'authentification scientifique et le classement des rares saphirs de Ceylan.",
-      de: "Mit über 20 Jahren Erfahrung auf diesem Gebiet spezialisiert sich Dr. Perera auf die wissenschaftliche Authentifizierung und Bewertung seltener Ceylon-Saphire.",
-      es: "Con más de 20 años de experiencia en el campo, la Dra. Perera se especializa en la autenticación científica y clasificación de zafiros raros de Ceilán."
+      en: "Drives the company's brand strategy, digital marketing, customer engagement, and market expansion through innovative campaigns and data-driven insights.",
+      fr: "Pilote la stratégie de marque, le marketing numérique, l'engagement client et le développement du marché grâce à des campagnes innovantes et à des analyses basées sur les données.",
+      de: "Verantwortet Markenstrategie, digitales Marketing, Kundenbindung und Marktexpansion durch innovative Kampagnen und datenbasierte Entscheidungen.",
+      es: "Dirige la estrategia de marca, el marketing digital, la participación del cliente y la expansión del mercado mediante campañas innovadoras y análisis basados en datos."
     },
-    image: "/images/expert2.png"
-  },
-  {
-    id: 3,
-    name: {
-      en: "Ms. Isabella Chen",
-      fr: "Mme Isabella Chen",
-      de: "Frau Isabella Chen",
-      es: "Sra. Isabella Chen"
-    },
-    position: {
-      en: "Market Analyst",
-      fr: "Analyste de Marché",
-      de: "Marktanalystin",
-      es: "Analista de Mercado"
-    },
-    description: {
-      en: "Isabella provides strategic insights into global gemstone market trends, helping collectors make informed investment choices.",
-      fr: "Isabella fournit des informations stratégiques sur les tendances du marché mondial des pierres précieuses, aidant les collectionneurs à faire des choix d'investissement éclairés.",
-      de: "Isabella liefert strategische Einblicke in globale Edelsteinmarkttrends und hilft Sammlern, fundierte Investitionsentscheidungen zu treffen.",
-      es: "Isabella proporciona información estratégica sobre las tendencias del mercado mundial de piedras preciosas, ayudando a los coleccionistas a tomar decisiones de inversión informadas."
-    },
-    image: "/images/expert3.png"
-  },
-  {
-    id: 4,
-    name: {
-      en: "Mr. Kamal de Silva",
-      fr: "M. Kamal de Silva",
-      de: "Herr Kamal de Silva",
-      es: "Sr. Kamal de Silva"
-    },
-    position: {
-      en: "Quality Assurance Head",
-      fr: "Responsable Assurance Qualité",
-      de: "Leiter Qualitätssicherung",
-      es: "Jefe de Garantía de Calidad"
-    },
-    description: {
-      en: "Kamal oversees our rigorous multi-stage verification process to ensure every gemstone meets the highest standards of purity.",
-      fr: "Kamal supervise notre processus de vérification rigoureux en plusieurs étapes pour garantir que chaque pierre précieuse répond aux normes de pureté les plus élevées.",
-      de: "Kamal überwacht unseren strengen, mehrstufigen Verifizierungsprozess, um sicherzustellen, dass jeder Edelstein den höchsten Reinheitsstandards entspricht.",
-      es: "Kamal supervisa nuestro riguroso proceso de verificación de múltiples etapas para garantizar que cada gema cumpla con los más altos estándares de pureza."
-    },
-    image: "/images/expert4.png"
+    image: "/images/expert2.jpeg"
   }
 ];
 

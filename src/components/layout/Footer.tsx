@@ -4,7 +4,7 @@ import { Globe, MessageCircle, Link as LinkIcon, Mail, Phone, MapPin } from 'luc
 
 export default function Footer() {
   const t = useTranslations('Navbar');
-  
+
   const currentYear = new Date().getFullYear();
 
   return (
@@ -56,11 +56,25 @@ export default function Footer() {
             <ul className="flex flex-col gap-6">
               <li className="flex gap-4">
                 <MapPin className="w-5 h-5 text-gold shrink-0" />
-                <span className="text-white/60 text-sm">123 Gem Street, Beruwala,<br />Sri Lanka</span>
+                <span className="text-white/60 text-sm">53/6, Κ.Ε. Perera Road, Thalwatta Gonawala,<br />Sri Lanka</span>
               </li>
               <li className="flex gap-4">
                 <Phone className="w-5 h-5 text-gold shrink-0" />
-                <span className="text-white/60 text-sm">+94 11 234 5678</span>
+                <span className="text-white/60 text-sm">+94 112 907 125</span>
+              </li>
+              <li className="flex gap-4">
+                <Phone className="w-5 h-5 text-gold shrink-0" />
+                <div className="flex flex-col">
+                  <span className="text-gold text-[11px] uppercase tracking-widest font-semibold">
+                    Hotline
+                  </span>
+                  <a
+                    href="tel:+94771155511"
+                    className="text-white text-sm font-medium hover:text-gold transition-colors"
+                  >
+                    +94 771 155 511
+                  </a>
+                </div>
               </li>
               <li className="flex gap-4">
                 <Mail className="w-5 h-5 text-gold shrink-0" />
@@ -74,9 +88,9 @@ export default function Footer() {
             <h4 className="text-white font-serif text-lg mb-8">Newsletter</h4>
             <p className="text-white/60 text-sm mb-6">Subscribe to receive updates on our latest collections.</p>
             <form className="relative">
-              <input 
-                type="email" 
-                placeholder="Your email" 
+              <input
+                type="email"
+                placeholder="Your email"
                 className="w-full bg-white/5 border border-white/10 rounded-full py-3 px-6 text-sm focus:outline-none focus:border-gold transition-colors"
               />
               <button className="absolute right-1 top-1 bottom-1 bg-gold text-luxury-black px-6 rounded-full text-xs font-bold uppercase tracking-widest hover:bg-white transition-colors">

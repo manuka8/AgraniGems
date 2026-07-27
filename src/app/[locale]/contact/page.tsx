@@ -33,9 +33,9 @@ export default async function ContactPage({
               <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
                 {[
                   { icon: <Mail />, label: 'Email Us', value: 'info@agranigems.com', sub: '24/7 Support' },
-                  { icon: <Phone />, label: 'Call Us', value: '+94 11 234 5678', sub: 'Mon-Fri, 9am-6pm' },
-                  { icon: <MapPin />, label: 'Visit Us', value: '123 Gem Street', sub: 'Beruwala, Sri Lanka' },
-                  { icon: <Clock />, label: 'Opening Hours', value: '09:00 - 18:00', sub: 'Closed on Sundays' },
+                  { icon: <Phone />, label: 'Call Us', value: '+94 112 907 125', sub: 'Mon-Fri, 9am-6pm' },
+                  { icon: <Phone />, label: 'Hotline', value: '+94 771 155 511', sub: '24/7 Support' },
+                  { icon: <MapPin />, label: 'Visit Us', value: '53/6, Κ.Ε. Perera Road', sub: 'Thalwatta Gonawala, Sri Lanka' },
                 ].map((item, i) => (
                   <div key={i} className="p-8 rounded-3xl bg-white/5 border border-white/10">
                     <div className="text-gold mb-6">{item.icon}</div>
@@ -64,11 +64,11 @@ export default async function ContactPage({
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                   <div className="space-y-2">
                     <label className="text-[10px] uppercase tracking-widest text-white/40 ml-4">Full Name</label>
-                    <input type="text" className="w-full bg-white/5 border border-white/10 rounded-2xl py-4 px-6 text-white focus:outline-none focus:border-gold transition-colors" placeholder="John Doe" />
+                    <input type="text" className="w-full bg-white/5 border border-white/10 rounded-2xl py-4 px-6 text-white focus:outline-none focus:border-gold transition-colors" placeholder="Agrani" />
                   </div>
                   <div className="space-y-2">
                     <label className="text-[10px] uppercase tracking-widest text-white/40 ml-4">Email Address</label>
-                    <input type="email" className="w-full bg-white/5 border border-white/10 rounded-2xl py-4 px-6 text-white focus:outline-none focus:border-gold transition-colors" placeholder="john@example.com" />
+                    <input type="email" className="w-full bg-white/5 border border-white/10 rounded-2xl py-4 px-6 text-white focus:outline-none focus:border-gold transition-colors" placeholder="your.email@example.com" />
                   </div>
                 </div>
                 <div className="space-y-2">
